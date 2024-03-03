@@ -1,0 +1,12 @@
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.deps.json
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.dll
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.pdb
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.AssemblyReference.cache
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfoInputs.cache
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfo.cs
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.CoreCompileInputs.cache
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.dll
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/refint/Core.Persistence.dll
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.pdb
+/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.Persistence/obj/Debug/net7.0/ref/Core.Persistence.dll

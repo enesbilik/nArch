@@ -1,0 +1,39 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core.Application/Pipelines/Transaction/TransactionScopeBehavior.cs">
+    <Files>
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/ExceptionMiddleware.cs" Line="13" Column="53" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/Extensions/ExceptionMiddlewareExtensions.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/Types/BusinessException.cs" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/Handlers/HttpExceptionHandler.cs" Line="34" Column="6" />
+      <File FileName="Core.Application/Pipelines/Validation/RequestValidationBehavior.cs" Line="6" Column="19" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/Types/ValidationException.cs" Line="50" Column="2" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/Handlers/ExceptionHandler.cs" Line="25" Column="1" />
+      <File FileName="Core.CrossCuttingConcerns/Exceptions/HttpProblemDetails/ValidationProblemDetails.cs" Line="1" Column="1" />
+      <File FileName="Core.Application/Pipelines/Transaction/ITransactionalRequest.cs" Line="7" Column="1" />
+      <File FileName="Core.Application/Pipelines/Transaction/TransactionScopeBehavior.cs" Line="27" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Core.Packages" expanded="True" selected="True">
+            <Node name="Core.CrossCuttingConcerns">
+              <Node name="Exceptions" expanded="True">
+                <Node name="Handlers" expanded="True" />
+                <Node name="HttpProblemDetails" expanded="True" />
+                <Node name="Types" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/enes/Documents/GitHub/nArch/src/corePackages/Core.Packages/Core.CrossCuttingConcerns/Exceptions/Handlers/HttpExceptionHandler.cs" relfile="Core.CrossCuttingConcerns/Exceptions/Handlers/HttpExceptionHandler.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
